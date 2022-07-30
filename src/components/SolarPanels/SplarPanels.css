@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pages-p1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./images//bg-1.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+/* pages-2 */
+.pages-p2{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: start;
+    color: #000;
+}
+.pages-p2bgImages{
+    width: 90vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pages-p2Text{
+    width: 30vw;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50%;
+}
+.pages-p2Text h1{
+    margin-bottom: 30px;
+}
+.btnColumn{
+    height: 40px;
+    width: 320px;
+    border: 2px solid #000;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 30px;
+}
+.btnColumn:hover{
+    background-color: #151515;
+    color: aliceblue;
+}
+.pages-p2-1bgImages{
+    background-image: url(./images/_25-Design-3.jfif);
+    width: 90vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* pages-3 */
+.pages-p3{
+    background-image: url(./images/PW-Inverter-Hero-4.jfif);
+    width: 100vw;
+    height: 65vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cardTextFlx{
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    height: 250px;
+    padding-top: 20px;
+}
+/* pages-4 */
+.cardTextFlx-2{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: start;
+    height: 250px;
+    padding-top: 20px;
+}
+/* pages-5 */
+.pages-p5bgImages{
+    background-image: url(./images/Inverter_V8_6.avif);
+    width: 90vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* pages-6 */
+.pages-p6{
+    height: 65vh;
+    width: 100vw;
+    background-image: url(./images/SP-tesla-app-7.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* pages-7 */
+.pages-p7{
+    background-color: #000000;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+}
+.foter-ximg img{
+    width: 700px;
+    height: 600px;
+    margin-top: 15%;
+}
+.text-15{
+    margin-top: 5%;
+    color: white;
+}
+.text-15 div{
+    padding-bottom: 10px;
+}
+.text-15 h2{
+    border-top: 1px solid rgb(247, 247, 247);
+    width: 50px;
+}
+.btn-15{
+    height: 30px;
+    width: 260px;
+    border: 2px solid rgb(161, 161, 161);
+    color: whitesmoke;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.text-2-15{
+    margin-top: 9%;
+    padding-right: 50px;
+    color: #efefef;
+}
+.text-2-15 div{
+    padding-bottom: 10px;
+}
+.text-2-15 h2{
+    border-top: 1px solid #ffffff;
+    width: 50px;
+}
+.Rot-furer{
+    background-color: #000;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    text-align: center;
+}
+.Itemtext-futer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20%;
+}
+.navber-rot{
+    text-align: center;
+    padding-bottom: 20px;
+    background: #000;
+}
+.navber-rot a{
+    text-decoration: none;
+    text-align: center;
+    padding: 3px 15px;
+    color: #fdfdfd;
+    
+}
+.navber-rot a:hover{
+    border: 1px solid #a19f9f;
+    color: rgb(202, 181, 155);
+    border-radius: 8px;
+}
+.btnFuter{
+    height: 40px;
+    width: 320px;
+    border: 2px solid rgb(255, 254, 254);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    background: #000;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 30px;
+}
+.btnFuter:hover{
+    background-color: #ede0e0;
+    color: #000;
+}

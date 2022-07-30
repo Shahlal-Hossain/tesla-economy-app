@@ -1,0 +1,315 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-modelS{
+    background-image: url(Model-S/Model-S-Main.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-1{
+    background-image: url(Model-S/MS-Interior.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* //////2 */
+.main-2{
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.d-block {
+  margin-left: 170px;
+}
+/* //////3 */
+.main-3{
+    display: flex;
+    width: 100vw;
+    height: 150vh;
+    background-color: black;
+    flex-wrap: wrap;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+.card{
+    background-color: black;
+    width: 70vw;
+    height: 70vh;
+    display: flex;
+}
+.img-1{
+    color: aliceblue;
+    width: 75%;
+    height: 300px;
+    position: absolute;
+    margin-left: 10%;
+    display: flex;
+}
+.item-3{
+   padding:80px; 
+}
+.videos-2{
+    color: aliceblue;
+    width: 70%;
+    height: 300px;
+    position: absolute;
+    margin-left: 10%;
+    display: flex;
+    margin-top: 300px;
+}
+.item-v{
+    padding-top: 60px;
+}
+.img-3{
+    color: aliceblue;
+    width: 70%;
+    height: 300px;
+    position: absolute;
+    margin-left: 10%;
+    display: flex;
+    margin-top: 600px;
+}
+.main-4{
+    background-image: url(Model-S/Model-S-Performance.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.Plaid-main{
+    display: flex;
+    height: 230px;
+    margin-left: 5%;
+    background-color: white;
+}
+.Plaid{
+    display: flex;
+    padding: 50px;
+}
+.plaid-text{
+    padding-left: 150px;
+}
+.main-a-4{
+    background-color: rgb(209, 207, 207);
+    height: 156vh;
+}
+.Electric{
+    margin-left: 10%;
+    padding-top: 50px;
+}
+ .cart-img img{
+    width: 85%;
+    margin-left: 7%;
+    margin-top: 65px;
+    border-radius: 10px;
+ }
+.Plaid-cart{
+    display: flex;
+    width: 70%;
+    margin-left: 13%;
+    margin-top: 50px;
+}
+.dual-motor{
+    border-top: 2px solid black;
+    margin: 20px;
+}
+.main-5{
+    background-image: url(Model-S/Model-S-Exterior.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Plaid-main-1{
+    background: #000;
+}
+.Plaid-1{
+    display: flex;
+    padding: 50px; 
+    color: white;
+    width: 80%;
+    margin-left: 100px;
+}
+.plaid-text{
+    padding-left: 150px;
+}
+.video-main{
+    width: 100vw;
+    height: 100vh;
+}
+.videos-range{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    color: #000;
+}
+.videosWidth{
+    width: 95%;
+}
+.Anywhere{
+    width: 700px;
+    padding: 10px;
+    margin-top: 50px;
+}
+.GroupItem{
+   margin-left: 50px;
+   text-align: center;
+}
+
+.Freedom{
+    background-color: rgb(248, 248, 248);
+    height: 146vh;
+    margin-top: 100px;
+}
+.btn-center{
+    display: flex;
+    justify-content: center;
+}
+.safety{
+    display: flex;
+    padding-left: 60px;
+}
+.img-safety{
+    width: 12in;
+}
+.safety-btn{
+    margin-top: 250px;
+}
+.Autopilot{
+    width: 100vw;
+    height: 80vh;
+    background-image: url(Model-S/Autopilot-Hero.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+.iconDiv{
+    padding: 70px;
+}
+.iconDiv div{
+    padding: 25px;
+}
+.icons{
+    font-size: 50px;
+}
+.Features{
+    margin-left: 10%;
+}
+.fotar{
+    background-color: #000000;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.foter-img img{
+    width: 700px;
+    height: 600px;
+    margin-top: 15%;
+}
+.foter-text{
+    margin-top: 5%;
+    color: white;
+}
+.foter-text div{
+    padding-bottom: 10px;
+}
+.foter-text h2{
+    border-top: 1px solid rgb(247, 247, 247);
+    width: 50px;
+}
+.btn-style{
+    height: 30px;
+    width: 260px;
+    border: 2px solid rgb(161, 161, 161);
+    color: whitesmoke;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.foter-text-2{
+    margin-top: 9%;
+    padding-right: 50px;
+    color: #efefef;
+}
+.foter-text-2 div{
+    padding-bottom: 10px;
+}
+.foter-text-2 h2{
+    border-top: 1px solid #ffffff;
+    width: 50px;
+}
+.hero-order{
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-between;
+}
+.hero-btn{
+    margin-top: 20%;
+    margin-left: 50px;
+}
+.last-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.last-img img{
+    width: 700px;
+    margin-top: 15%;
+}
+nav{
+    text-align: center;
+    margin-bottom: 30px;
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
+    padding: 3px 15px;
+    color: #000;
+    
+}
+nav a:hover{
+    border: 1px solid black;
+    color: darkorange;
+    border-radius: 8px;
+}

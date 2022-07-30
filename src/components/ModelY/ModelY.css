@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* (pages-1) */
+.pages-y1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(ModelY/model-y-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* (pages--2) */
+.pages-y2{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+.pagesImages-2{
+    width: 70vw;
+    height: 100vh;
+    background-image: url(ModelY/model-y-2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    bottom: 2px solid rgb(180, 11, 11);
+}
+.pagesText-2{
+    width: 400px;
+    padding: 30px;
+}
+/* (pages--3) */
+.pages-y3{
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.pagesText-3{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-right: 17%;
+}
+.Utility-y{
+    width: 100%;
+}
+.pages-bootstrap-1{
+    width: 100vw;
+    margin-bottom: 30px;
+}
+.pages-bootstrap-1 img{
+    border-radius: 10px;
+}
+/* pages--4 */
+.pages-y4{
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.pagesImg-4{
+    width: 100vw;
+    height: 70vh;
+    background-image: url(ModelY/AWD_hero-5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* pages--5 */
+.pages-y5{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+.video-y{
+    width: 120vw;
+    height: 100vh;
+    /* display: flex; */
+    position: relative;
+}
+video{
+    width: 1000px;
+}
+/* pages=6 */
+.pages-y6{
+    margin-top: 310px;
+    background-image: url(./ModelY/Autopilot-Hero-7.jpg);
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+.itemText-y6{
+    padding: 70px;
+}
+.itemText-y6 div{
+    padding: 25px;
+}
+/* pages--7 */
+.pages-y7{
+    width: 100vw;
+    height: 100vh;
+}
+.bgimares-y7{
+    background-image: url(./ModelY/Model-Y-8.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: start;
+}
+.bgimares-y7 div{
+    width: 400px;
+    color: rgb(178, 99, 99);
+}
+/* pages--8 */
+.fotar-y8{
+    background-color: #000000;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+.fotery8-img img{
+    width: 700px;
+    height: 600px;
+    margin-top: 15%;
+}
+.fotery8-text{
+    margin-top: 5%;
+    color: white;
+}
+.fotery8-text div{
+    padding-bottom: 10px;
+}
+.fotery8-text h2{
+    border-top: 1px solid rgb(247, 247, 247);
+    width: 50px;
+}
+.btn-style8{
+    height: 30px;
+    width: 260px;
+    border: 2px solid rgb(161, 161, 161);
+    color: whitesmoke;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.fotery8-text-2{
+    margin-top: 9%;
+    padding-right: 50px;
+    color: #efefef;
+}
+.fotery8-text-2 div{
+    padding-bottom: 10px;
+}
+.fotery8-text-2 h2{
+    border-top: 1px solid #ffffff;
+    width: 50px;
+}
+.heroy8-order{
+    background-color: #000000;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-between;
+    color: #ffffff;
+}
+.heroy8-btn{
+    margin-top: 20%;
+    margin-left: 50px;
+    color: #ffffff;
+}
+.heroy8-btn h2{
+    margin-left: 120px;
+}
+.last-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.lasty8-img img{
+    width: 700px;
+    margin-top: 30%;
+}
+.navber-y8{
+    text-align: center;
+    padding-bottom: 20px;
+    background: #000;
+}
+.navber-y8 a{
+    text-decoration: none;
+    text-align: center;
+    padding: 3px 15px;
+    color: #fdfdfd;
+    
+}
+.navber-y8 a:hover{
+    border: 1px solid #a19f9f;
+    color: rgb(202, 181, 155);
+    border-radius: 8px;
+}

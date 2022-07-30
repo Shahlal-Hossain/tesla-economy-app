@@ -1,0 +1,101 @@
+[
+    
+    {
+        "id": 0,
+        "titles": "Model S",
+        "descriptions": "Plaid",
+        "bgImages": "model-s.jpg",
+        "bgImages1":"model-s-1.jpg",
+        "bgImages2":"model-s-2.jpg",
+        "ranges": "396mi",
+        "times": "1.99s",
+        "mile": "9.23s",
+        "topSpeeds": "200mph",
+        "peakPowers": "1,020hp",
+        "orderNows": "ORDER NOW"
+        
+    },
+    {
+        "id": 1,
+        "titley": "Model Y",
+        "descriptiony": "Plaid",
+        "bgImagey": "model-y.jpg",
+        "bgImagey1":"model-y-1.jpg",
+        "bgImagey2":"Model-y-2.jpg",
+        "rangey": "330mi",
+        "timey": "3.5s",
+        "miley": "2",
+        "cargo":"76cu ft",
+        "topSpeedy": "AWD",
+        "topSpeeday": "200mph",
+        "peakPowery": "1,020hp",
+        "orderNowy": "ORDER NOW"
+    },
+    {
+        "id": 2,
+        "title3": "Model 3",
+        "description3": "Plaid",
+        "bgImage3": "model-3.jpg",
+        "bgImage31":"model-3-1.jpg",
+        "bgImage32":"Model-3-2.jpg",
+        "range3": "358mi",
+        "time3": "3.1s",
+        "topSpeed3": "AWD",
+        "peakPower3": "162mph",
+        "orderNow3": "ORDER NOW"
+    },
+    {
+        "id": 3,
+        "titlex": "Model X",
+        "descriptionx": "Order Online for Touchless Delivery",
+        "bgImagex": "model-x.jpg",
+        "bgImagex1":"model-x-1.jpg",
+        "bgImagex2":"Model-x-2.jpg",
+        "rangex": "333mi",
+        "timex": "2.5s",
+        "mile":"9.9s",
+        "topSpeedx": "150",
+        "peakPowerx": "1,020hp",
+        "orderNowx": "ORDER NOW"
+    },
+    {
+        "id": 4,
+        "title": "Solar Panels",
+        "description": "Lowest Cost Solar Panels in America",
+        "bgImage": "solar-panel.jpg",
+        "bgImage1":"solar-panel-1.mp4",
+        "bgImage2":"solar-panel-2.mp4",
+        "range": "350",
+        "Energy":"24/7",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "Order now",
+        "rightButtonText": "Learn More",
+        "model" : "solar"
+    },
+    {
+        "id": 5,
+        "titler": "Solar Roof",
+        "descriptionr": "Produce Clean Energy From Your Roof",
+        "bgImage": "solar-roof.jpg",
+        "bgImage1":"solar-roof-1.jpg",
+        "bgImage2":"solar-roof-2.jpg",
+        "Energyr": "24/7",
+        "Warranty": "25-Year",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "Order now",
+        "rightButtonText": "Learn More"
+    },
+    {
+        "id": 6,
+        "title": "Accessories",
+        "description": "Produce Clean Energy From Your Roof",
+        "bgImage": "accessories.jpg",
+        "leftButtonText": "Shop Now",
+        "orderNow": "ORDER NOW"
+    }
+
+   
+]
+

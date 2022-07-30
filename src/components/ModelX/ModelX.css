@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* (pages=1) */
+.pages-x1{
+    background-image: url(ModelX/Model-X-Main-Hero-Desktop-LHD-1.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* ( pages=2) */
+.pages-x2{
+    background-image: url(ModelX/MX-Interior-Hero-2.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.pages-x2 h3{
+    margin-top: 50px;
+    color: #000;
+    font-size: 30px;
+}
+/* (pages=3) */
+.pages-x3{
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.d-block {
+  margin-left: 170px;
+}
+/* (pages=4) */
+.pages-x4{
+    display: flex;
+    width: 100vw;
+    height: 130vh;
+    background-color: black;
+    flex-wrap: wrap;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+.card-x{
+    background-color: black;
+    width: 70vw;
+    height: 70vh;
+    display: flex;
+}
+.img-1{
+    color: aliceblue;
+    width: 75%;
+    height: 300px;
+    position: absolute;
+    margin-left: 10%;
+    display: flex;
+}
+.item-3{
+   padding:80px; 
+}
+.img-2{
+    color: aliceblue;
+    width: 70%;
+    height: 300px;
+    position: absolute;
+    margin-left: 10%;
+    display: flex;
+    margin-top: 300px;
+}
+.item-v{
+    padding-top: 60px;
+}
+.img-3{
+    color: aliceblue;
+    width: 70%;
+    height: 300px;
+    position: absolute;
+    margin-left: 10%;
+    display: flex;
+    margin-top: 600px;
+}
+/* (pages=5) */
+.pages-x5{
+    background-image: url(ModelX/Model-X-Performance-10.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.Plaid-x{
+    display: flex;
+    height: 230px;
+    margin-left: 5%;
+    background-color: white;
+}
+.Plaid{
+    display: flex;
+    padding: 50px;
+}
+.plaidText{
+    padding-left: 150px;
+}
+/* (pages=6)and(pages-11) */
+.pages-x6{
+    background-color: rgb(209, 207, 207);
+    height: 156vh;
+}
+.Electric-x{
+    margin-left: 10%;
+    padding-top: 50px;
+}
+ .cart-img img{
+    width: 85%;
+    margin-left: 7%;
+    margin-top: 65px;
+    border-radius: 10px;
+ }
+.Plaid-cart{
+    display: flex;
+    width: 70%;
+    margin-left: 13%;
+    margin-top: 50px;
+}
+.dual-motor{
+    border-top: 2px solid black;
+    margin: 20px;
+}
+.btnCenter{
+    display: flex;
+    justify-content: center;
+}
+/* ( (pages=7) and (pages=10) ) */
+.pages-x7{
+    width: 100vw;
+    height: 100vh;
+}
+.item-7{
+    display: flex;
+    justify-content: space-between;
+}
+.item-7-text{
+    width: 20vw;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.btn-7{
+    margin-top: 9cm;
+}
+.imgPages-7{
+    background-image: url(ModelX/Model-X-Utility-Hero-12.jpg);
+    height: 100vh;
+    width: 80vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* (pages=8) */
+.pages-x8{
+    background-image: url(ModelX/Model-X-Exterior-13.jpg);
+    height: 70vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.Plaid-x8{
+    width: 60vw;
+}
+.item-8{
+    display: flex;
+    padding: 50px; 
+    color: #000000;
+    width: 80%;
+    margin-left: 100px;
+}
+/* (pages=9) */
+.pages-x9{
+    display: flex;
+    width: 100vw;
+    height: 140vh;
+    background-color: black;
+    flex-wrap: wrap;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+.img-x1{
+    color: aliceblue;
+    width: 75%;
+    height: 320px;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 50px;
+    display: flex;
+}
+.imgCard{
+    width: 700px;
+    height: 320px;
+}
+.img-x2{
+    color: aliceblue;
+    width: 75%;
+    height: 320px;
+    position: absolute;
+    margin-left: 11%;
+    margin-top: 370px;
+    display: flex;
+}
+.item-x1{
+   padding-right:80px;
+   padding-top: 80px; 
+}
+.item-x2{
+    padding: 80px 0px 0px 80px;
+ }
+.img-x3{
+    color: aliceblue;
+    width: 75%;
+    height: 320px;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 690px;
+    display: flex;
+}
+/* (pages=10) */
+.pages-x10{
+    background-image: url(ModelX/Model-X-Range-17.jpg);
+    height: 100vh;
+    width: 80vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* (pages=12) */
+.pages-x12{
+    background-image: url(ModelX/Model-X-Safety-Hero-18.jpg);
+    height: 100vh;
+    width: 80vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* (pages=13) */
+.pages-x13{
+    background-image: url(ModelX/Autopilot-Hero-19.jpg);
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+.itemText-13{
+    padding: 70px;
+}
+.itemText-13 div{
+    padding: 25px;
+}
+/* (pages=15) */
+.pages-x15{
+    background-color: #000000;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+.foter-ximg img{
+    width: 700px;
+    height: 600px;
+    margin-top: 15%;
+}
+.text-15{
+    margin-top: 5%;
+    color: white;
+}
+.text-15 div{
+    padding-bottom: 10px;
+}
+.text-15 h2{
+    border-top: 1px solid rgb(247, 247, 247);
+    width: 50px;
+}
+.btn-15{
+    height: 30px;
+    width: 260px;
+    border: 2px solid rgb(161, 161, 161);
+    color: whitesmoke;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.text-2-15{
+    margin-top: 9%;
+    padding-right: 50px;
+    color: #efefef;
+}
+.text-2-15 div{
+    padding-bottom: 10px;
+}
+.text-2-15 h2{
+    border-top: 1px solid #ffffff;
+    width: 50px;
+}
+/* (pages=16) */
+.hero-order{
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-between;
+}
+.hero-btn{
+    margin-top: 20%;
+    margin-left: 50px;
+}
+.last-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.last-img img{
+    width: 700px;
+    margin-top: 15%;
+}
+nav{
+    text-align: center;
+    margin-bottom: 30px;
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
+    padding: 3px 15px;
+    color: #000;
+    
+}
+nav a:hover{
+    border: 1px solid black;
+    color: darkorange;
+    border-radius: 8px;
+}

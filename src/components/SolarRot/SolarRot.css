@@ -1,0 +1,245 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Solar-Rot{
+    width: 100vw;
+}
+/* pages-1 */
+.pages-r1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./images/bg-1.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+/* pages-2 */
+.pages-r2{
+    width: 100vw;
+    height: 70vh;
+    background-image: url(./images/SR-Design-2.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pagesText-r{
+    display: flex;
+    height: 220px;
+    margin-left: 5%;
+    background-color: white;
+}
+.Design{
+    display: flex;
+    padding: 50px;
+}
+.pagesText-rp{
+    width: 65vw;
+    padding-left: 150px;
+}
+/* pages-3 */
+.pages-r3{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: start;
+    color: #000;
+}
+.pages-r3bgImages{
+    background-image: url(./images/powerwall-3.jfif);
+    width: 90vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pages-r3Text{
+    width: 30vw;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50%;
+}
+.pages-r3Text h1{
+    margin-bottom: 30px;
+}
+.btnColumn{
+    height: 40px;
+    width: 320px;
+    border: 2px solid #000;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 30px;
+}
+.btnColumn:hover{
+    background-color: #151515;
+    color: aliceblue;
+}
+/* pages-4 */
+.video-1{
+    /* width: 70vw; */
+    margin-top: 7%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* pages-5 */
+.pages-r5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagesCard-r5{
+    display: flex;
+    width: 70%;
+    margin-left: 13%;
+    margin-top: 50px;
+}
+.R5Card{
+    border-top: 2px solid black;
+    margin: 20px;
+}
+/* pages-6 */
+.pages-r6bgImages{
+    background-image: url(./images/Inverter_V8_D-6.avif);
+    width: 90vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* pages-7 */
+.pages-r7{
+    background-image: url(./images/SR-tesla-app-7.jfif);
+    width: 100vw;
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* pages-8 */
+.pages-r8bgImages{
+    background-image: url(./images/SR-Value-8.jfif);
+    width: 90vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* pages-9 */
+.pages-r9{
+    background-color: #000000;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+.foter-ximg img{
+    width: 700px;
+    height: 600px;
+    margin-top: 15%;
+}
+.text-15{
+    margin-top: 5%;
+    color: white;
+}
+.text-15 div{
+    padding-bottom: 10px;
+}
+.text-15 h2{
+    border-top: 1px solid rgb(247, 247, 247);
+    width: 50px;
+}
+.btn-15{
+    height: 30px;
+    width: 260px;
+    border: 2px solid rgb(161, 161, 161);
+    color: whitesmoke;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.text-2-15{
+    margin-top: 9%;
+    padding-right: 50px;
+    color: #efefef;
+}
+.text-2-15 div{
+    padding-bottom: 10px;
+}
+.text-2-15 h2{
+    border-top: 1px solid #ffffff;
+    width: 50px;
+}
+.Rot-furer{
+    background-color: #000;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    text-align: center;
+}
+.Itemtext-futer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20%;
+}
+.navber-rot{
+    text-align: center;
+    padding-bottom: 20px;
+    background: #000;
+}
+.navber-rot a{
+    text-decoration: none;
+    text-align: center;
+    padding: 3px 15px;
+    color: #fdfdfd;
+    
+}
+.navber-rot a:hover{
+    border: 1px solid #a19f9f;
+    color: rgb(202, 181, 155);
+    border-radius: 8px;
+}
+.btnFuter{
+    height: 40px;
+    width: 320px;
+    border: 2px solid rgb(255, 254, 254);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    background: #000;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 30px;
+}
+.btnFuter:hover{
+    background-color: #ede0e0;
+    color: #000;
+}

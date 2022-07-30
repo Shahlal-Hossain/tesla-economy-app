@@ -1,0 +1,109 @@
+ [
+    {
+        "id": 0,
+        "title": "Model S",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-s.jpg",
+        "bgImage1":"model-s-1.jpg",
+        "bgImage2":"model-s-2.jpg",
+        "range": "396",
+        "time": "1.99",
+        "topSpeed": "200",
+        "peakPower": "1,020",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "models"
+        
+    },
+    {
+        "id": 1,
+        "title": "Model Y",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-y.jpg",
+        "bgImage1":"model-y-1.jpg",
+        "bgImage2":"Model-y-2.jpg",
+        "range": "410",
+        "time": "2.05",
+        "topSpeed": "190",
+        "peakPower": "1,040",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "modely"
+    },
+    {
+        "id": 2,
+        "title": "Model 3",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-3.jpg",
+        "bgImage1":"model-3-1.jpg",
+        "bgImage2":"Model-3-2.jpg",
+        "range": "400",
+        "time": "2.99",
+        "topSpeed": "180",
+        "peakPower": "900",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "model3"
+    },
+    {
+        "id": 3,
+        "title": "Model X",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-x.jpg",
+        "bgImage1":"model-x-1.jpg",
+        "bgImage2":"Model-x-2.jpg",
+        "range": "350",
+        "time": "1.55",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "modelx"
+    },
+    {
+        "id": 4,
+        "title": "Solar Panels",
+        "description": "Lowest Cost Solar Panels in America",
+        "bgImage": "solar-panel.jpg",
+        "bgImage1":"solar-panel-1.mp4",
+        "bgImage2":"solar-panel-2.mp4",
+        "range": "350",
+        "time": "1.55",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "Order now",
+        "rightButtonText": "Learn More",
+        "model" : "solar"
+    },
+    {
+        "id": 5,
+        "title": "Solar Roof",
+        "description": "Produce Clean Energy From Your Roof",
+        "bgImage": "solar-roof.jpg",
+        "bgImage1":"solar-roof-1.jpg",
+        "bgImage2":"solar-roof-2.jpg",
+        "range": "350",
+        "time": "1.55",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "orderNow": "ORDER NOW",
+        "leftButtonText": "Order now",
+        "rightButtonText": "Learn More"
+    },
+    {
+        "id": 6,
+        "title": "Accessories",
+        "description": "Produce Clean Energy From Your Roof",
+        "bgImage": "accessories.jpg",
+        "leftButtonText": "Shop Now",
+        "orderNow": "ORDER NOW"
+    }
+
+   
+]
+
